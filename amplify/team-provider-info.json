@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "wordupreactnative3-dev-20190509135145-authRole",
+            "UnauthRoleArn": "arn:aws:iam::110830640663:role/wordupreactnative3-dev-20190509135145-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::110830640663:role/wordupreactnative3-dev-20190509135145-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "wordupreactnative3-dev-20190509135145-deployment",
+            "UnauthRoleName": "wordupreactnative3-dev-20190509135145-unauthRole",
+            "StackName": "wordupreactnative3-dev-20190509135145",
+            "StackId": "arn:aws:cloudformation:us-east-1:110830640663:stack/wordupreactnative3-dev-20190509135145/80aad250-728b-11e9-bc57-0a4a1f15abc2"
+        }
+    }
+}
